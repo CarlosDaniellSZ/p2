@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">p2</string>
-    <string name="nome">Digite o Nome</string>
-    <string name="idade">Digite a Idade</string>
+    <string name="salvar">Salvar</string>
+
+    <string name="aluno">Digite o Nome</string>
+    <string name="rgm">Digite o RGM</string>
 </resources>
